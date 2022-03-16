@@ -1,2 +1,3 @@
-# cursoemvideo_python
-Curso em Vídeo - Python 3
+# Python 3 - Curso em Vídeo - Gustavo Guanabara
+## Mundo 1:
+- Aula 5: ex001 a ex002
