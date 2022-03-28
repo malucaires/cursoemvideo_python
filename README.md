@@ -9,11 +9,12 @@
 - Aula 10: ex028 a ex035 
 
 ### Mundo 2:
-- Aula 11: ex036 a ex045
-- Aula 12: ex046 a ex056
-- Aula 13: ex057 a ex065
-- Aula 14: ex066 a ex071
+- Aula 12: ex036 a ex045
+- Aula 13: ex046 a ex056
+- Aula 14: ex057 a ex065
+- Aula 15: ex066 a ex071
 
 ### Mundo 3:
-- Aula 15: ex072 a ex077
+- Aula 16: ex072 a ex077
+- Aula 17: ex078 a ex083
  
