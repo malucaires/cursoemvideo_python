@@ -22,3 +22,4 @@
 - Aula 20: ex096 a ex100
 - Aula 21: ex101 a ex106
 - Aula 22: ex107 a ex112
+- Aula 23: ex113 a ex115
